@@ -19,5 +19,5 @@ p dwarves_array
 dwarves_array
 end
 
-hobbit =[]
-list_dwarves()
+hobbit =['Dwalin', 'Balin', 'Kili', 'Fili', 'Dori', 'Nori', 'Ori', 'Oin', 'Gloin', 'Bifur', 'Bofur', 'Bombur', 'Thorin']
+list_dwarves(hobbit)
