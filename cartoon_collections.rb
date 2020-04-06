@@ -18,3 +18,6 @@ end
 p dwarves_array
 dwarves_array
 end
+
+hobbit =[]
+list_dwarves()
