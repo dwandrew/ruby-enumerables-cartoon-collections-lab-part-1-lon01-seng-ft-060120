@@ -15,3 +15,5 @@ def list_dwarves(array)
   array.each_with_index |dwarf, index|
   dwarves_array.push("#{index+1}. #{dwarf}")
 end
+dwarves_array
+end
